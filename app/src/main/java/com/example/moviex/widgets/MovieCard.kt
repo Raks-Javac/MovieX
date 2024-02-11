@@ -58,7 +58,7 @@ fun MovieRow(
         modifier = Modifier
             .fillMaxWidth()
 //            .height(200.dp)
-            .padding(15.dp)
+            .padding(20.dp)
             .clickable {
                 onClick(movie.id)
             },
