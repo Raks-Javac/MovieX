@@ -71,6 +71,7 @@ fun MovieRow(
 
         ) {
         Row(
+
             horizontalArrangement = Arrangement.Center,
             verticalAlignment = Alignment.CenterVertically
         ) {
